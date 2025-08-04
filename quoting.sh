@@ -17,5 +17,6 @@ filepath='C:\Users\rodrimar\Documents'
 echo 4 $filepath
 
 filepath="C:\Users\\${USER}\Documents"
-echo 5 $filepath
+
+echo 5 "$filepath"
 
