@@ -1,1 +1,0 @@
-Ambos stdout y stderr van a ambos.txt
